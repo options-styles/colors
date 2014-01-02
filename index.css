@@ -1,15 +1,15 @@
 /* Colors. */
-.nib-retail-green {color: #79BE10;} // R121 G190 B16
-.nib-retail-green-secondary {color: #5D9803;} // R93 G152 B3
-.nib-options-green {color: #019771;} // R1 G151 B113
-.nib-options-green-secondary {color: #72D2C3;} // R114 G210 B195
-.nib-options-text {color: #666666;} // R102 G102 B102
-.nib-options-text-highlight {color: #004D34;} // R0 G77 B52
+.nib-retail-green {color: #79BE10;} /* R121 G190 B16 */ 
+.nib-retail-green-secondary {color: #5D9803;} /* R93 G152 B3 */
+.nib-options-green {color: #019771;} /* R1 G151 B113 */
+.nib-options-green-secondary {color: #72D2C3;} /* R114 G210 B195 */
+.nib-options-text {color: #666666;} /* R102 G102 B102 */
+.nib-options-text-highlight {color: #004D34;} /* R0 G77 B52 */
 
 /* Background colors. */
-.bg-nib-retail-green {background: #79BE10;} // R121 G190 B16
-.bg-nib-retail-green-secondary {background: #5D9803;} // R93 G152 B3
-.bg-nib-options-green {background: #019771;} // R1 G151 B113
-.bg-nib-options-green-secondary {background: #72D2C3;} // R114 G210 B195
-.bg-nib-options-text {background: #666666;} // R102 G102 B102
-.bg-nib-options-text-highlight {background: #004D34;} // R0 G77 B52
+.bg-nib-retail-green {background: #79BE10;} /* R121 G190 B16 */
+.bg-nib-retail-green-secondary {background: #5D9803;} /* R93 G152 B3 */
+.bg-nib-options-green {background: #019771;} /* R1 G151 B113 */
+.bg-nib-options-green-secondary {background: #72D2C3;} /* R114 G210 B195 */
+.bg-nib-options-text {background: #666666;} /* R102 G102 B102 */
+.bg-nib-options-text-highlight {background: #004D34;} /* R0 G77 B52 */
